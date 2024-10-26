@@ -1,0 +1,10 @@
+h1, footer {
+    background: linear-gradient(300deg, rgb(103, 201, 234), rgb(30, 192, 30), rgb(249, 249, 5));
+    animation: gradient-animation 18s ease infinite;   
+    text-align: center;
+}
+.button {
+  font-family: "Kanit", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
